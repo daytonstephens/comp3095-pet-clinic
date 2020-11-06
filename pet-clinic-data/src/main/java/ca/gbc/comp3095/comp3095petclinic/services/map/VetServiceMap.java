@@ -1,9 +1,8 @@
-package services.map;
+package ca.gbc.comp3095.comp3095petclinic.services.map;
 
-import model.Vet;
+import ca.gbc.comp3095.comp3095petclinic.model.Vet;
 import org.springframework.stereotype.Service;
-import services.CrudService;
-import services.VetService;
+import ca.gbc.comp3095.comp3095petclinic.services.VetService;
 
 import java.util.Set;
 

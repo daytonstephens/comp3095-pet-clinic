@@ -1,9 +1,8 @@
-package services.map;
+package ca.gbc.comp3095.comp3095petclinic.services.map;
 
-import model.Owner;
+import ca.gbc.comp3095.comp3095petclinic.services.OwnerService;
+import ca.gbc.comp3095.comp3095petclinic.model.Owner;
 import org.springframework.stereotype.Service;
-import services.CrudService;
-import services.OwnerService;
 
 import java.util.Set;
 

@@ -1,9 +1,9 @@
-package comp3095petclinic.controllers;
+package ca.gbc.comp3095.comp3095petclinic.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-import services.OwnerService;
+import ca.gbc.comp3095.comp3095petclinic.services.OwnerService;
 
 @RequestMapping("/owners")
 @Controller

@@ -1,10 +1,8 @@
-package services.map;
+package ca.gbc.comp3095.comp3095petclinic.services.map;
 
-import model.BaseEntity;
+import ca.gbc.comp3095.comp3095petclinic.model.BaseEntity;
 
 import java.util.*;
-
-import static java.util.Collections.*;
 
 public abstract class AbstractMapService<T extends BaseEntity, ID extends Long> {
 
